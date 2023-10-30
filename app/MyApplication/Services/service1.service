@@ -1,0 +1,13 @@
+{
+    "DestinationName": "../service/MyProject/",
+    "OfflineEnabled": false,
+    "LanguageURLParam": "",
+    "OnlineOptions": {
+	"ServiceOptions": {
+		"fixMissingNullValues": true
+	}
+},
+    "PathSuffix": "",
+    "SourceType": "Cloud",
+    "ServiceUrl":""
+}
